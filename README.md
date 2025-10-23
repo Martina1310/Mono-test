@@ -18,7 +18,7 @@ Testovi su izrađeni korištenjem **Playwright** frameworka, organizirani prema 
    - Preuzmi GitHub repozitorij **Mono** i otvori ga u **Visual Studio Code**.
 
 2. **Pozicioniraj se na testove**
-   - U VS Code-u otvori folder  **`tests`** koji sadrži sve test datoteke.
+   - U VS Code-u otvori folder  **`Mono`** koji sadrži sve test datoteke.
    - Mono/playwright-test/tests/allTests
 
 3. **Pokreni terminal**
