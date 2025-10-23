@@ -19,7 +19,6 @@ Testovi su izrađeni korištenjem **Playwright** frameworka, organizirani prema 
 
 2. **Pozicioniraj se na testove**
    - U VS Code-u otvori folder  **`Mono`** koji sadrži sve test datoteke.
-   - Mono/playwright-test/tests/allTests
 
 3. **Pokreni terminal**
    - Otvori integrirani terminal (`Ctrl + ~` ili *View → Terminal*).
