@@ -439,7 +439,7 @@ If there are photos whose titles or tags contain these characters (e.g., /), the
 
 
 ### **Screenshot/Video:**  
-<img src="./images/search-special-characters.PNG" alt="search with special characters" width="800">
+<img src="./images/search-special-characters.png" alt="search with special characters" width="600">
 <img src="./images/search-special-characters-mob.PNG" alt="search with special characters1" width="300">
 
 
@@ -477,7 +477,7 @@ When clicking X, the user is redirected to the main home page, instead of return
 
 
 ### **Screenshot/Video:**  
-<img src="./images/closing-x-bug.PNG" alt="Closing a photo preview (X button)" width="800">
+<img src="./images/closing-x-bug.PNG" alt="Closing a photo preview" width="800">
 <img src="./images/closing-x-bug1.PNG" alt="Closing a photo preview (X button)" width="800">
 
 
@@ -590,8 +590,8 @@ The message “Please check your email in order to finish the password recovery 
 After clicking the link from the received email, the user is redirected to a nonexistent page (Error 404).
 
 ### **Screenshot/Video:**  
-<img src="./images/recovery-error.PNG" alt="Password recovery form does not respond" width="800">
-<img src="./images/recovery-error-404.PNG" alt="Password recovery form does not respond" width="800">
+<img src="./images/recovery-error.png" alt="Password recovery form does not respond" width="800">
+<img src="./images/recovery-error-404.png" alt="Password recovery form does not respond" width="800">
 
 
 
@@ -626,7 +626,7 @@ Social login buttons (Facebook, Twitter, Google, GitHub) should be functional an
 An error message appears below the social login icons: “undefined: Social login configuration not found.”
 
 ### **Screenshot/Video:**  
-<img src="./images/social-media-login.PNG" alt="Social login options" width="800">
+<img src="./images/social-media-login.png" alt="Social login options" width="800">
 
 
 
@@ -661,8 +661,8 @@ The photo title should display the full name, including all special characters (
 ### **Actual Result:**  
 The uploaded photo title misses the o special characters
 ### **Screenshot/Video:**  
-<img src="./images/special-characters-uplode.PNG" alt="Social login options" width="800">
-<img src="./images/special-characters.PNG" alt="Social login options" width="800">
+<img src="./images/special-characters-uplode.png" alt="Social login options" width="800">
+<img src="./images/special-characters.png" alt="Social login options" width="800">
 
 
 
@@ -700,7 +700,7 @@ The image should not be uploaded or displayed in the profile preview.
 The system displays a wrong validation message  “Username is taken” instead of an image size error.
 
 ### **Screenshot/Video:**  
-<img src="./images/wrong-validation.PNG" alt="Wrong validation message" width="800">
+<img src="./images/wrong-validation.png" alt="Wrong validation message" width="800">
 
 
 
@@ -769,8 +769,8 @@ The album should open and display its content.
 When clicking to open the first uploaded album, the application redirects to a blank page with an Error 404 – Page missing.
 
 ### **Screenshot/Video:**  
-<img src="./images/album-error.PNG" alt="first uploaded album" width="800">
-<img src="./images/album-error-404.PNG" alt="first uploaded album" width="800">
+<img src="./images/album-error.png" alt="first uploaded album" width="800">
+<img src="./images/album-error-404.png" alt="first uploaded album" width="800">
 
 
 
@@ -806,7 +806,7 @@ The username input field is displayed with a red border immediately upon loading
 
 
 ### **Screenshot/Video:**  
-<img src="./images/login-bug.PNG" alt="Red border" width="800">
+<img src="./images/login-bug.png" alt="Red border" width="800">
 
 
 
