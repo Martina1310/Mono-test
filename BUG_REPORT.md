@@ -414,6 +414,7 @@ A search is triggered with a blank term: the page shows “There are no photos t
 
 ### **Severity:** Low  
 ### **Priority:** Low  
+
 ---
 ---
 
@@ -454,6 +455,11 @@ If there are photos whose titles or tags contain these characters (e.g., /), the
 ### **Priority:** Medium  
 
 
+---
+---
+
+
+
 
 ### **Bug Title:** 
 *12. Closing a photo preview (X button)*  
@@ -491,8 +497,8 @@ When clicking X, the user is redirected to the main home page, instead of return
 ### **Severity:** Medium  
 ### **Priority:** Medium  
 
--- 
---
+---
+---
 
 ### **Bug Title:** 
 *13. Registration error*  
@@ -527,8 +533,9 @@ After filling in all valid data and clicking Register, the registration fails, e
 ### **Severity:** Medium  
 ### **Priority:** High  
 
--- 
---
+---
+---
+
 ### **Bug Title:** 
 *14. Navigating from Register to Home keeps page loading — gallery does not appear*  
 
@@ -565,6 +572,8 @@ After navigating back to Home, the page stays in a loading state — the spinner
 
 ### **Severity:** High  
 ### **Priority:** Medium  
+
+---
 ---
 
 
@@ -604,8 +613,8 @@ After clicking the link from the received email, the user is redirected to a non
 ### **Severity:** High 
 ### **Priority:** High  
 
---
---
+---
+---
 
 ### **Bug Title:** 
 *16. Social login options* 
@@ -639,8 +648,8 @@ An error message appears below the social login icons: “undefined: Social logi
 ### **Severity:** Medium 
 ### **Priority:** Medium 
 
---
---
+---
+---
 
 ### **Bug Title:** 
 *17. Photo titles containing special characters (č, ć, ž, š, đ) are not displayed correctly after upload* 
@@ -675,9 +684,8 @@ The uploaded photo title misses the o special characters
 ### **Severity:** Medium 
 ### **Priority:** Medium 
 
---
-
-
+---
+---
 
 ### **Bug Title:** 
 *18. Wrong validation message* 
@@ -714,8 +722,8 @@ The system displays a wrong validation message  “Username is taken” instead 
 ### **Severity:** Medium  
 ### **Priority:** Medium  
 
---
---
+---
+---
 
 ### **Bug Title:** 
 *19. Album photo count does not update after uploading a new photo* 
@@ -750,6 +758,8 @@ After uploading a new photo, the album still displays the old photo count.
 ### **Severity:** Medium  
 ### **Priority:** Medium  
 
+---
+---
 
 ### **Bug Title:** 
 *20. Opening the first uploaded album returns a 404 error* 
@@ -784,8 +794,8 @@ When clicking to open the first uploaded album, the application redirects to a b
 ### **Severity:** High  
 ### **Priority:** Medium  
 
---
---
+---
+---
 
 ### **Bug Title:** 
 *21. Red border around email input field displayed on Login page before any user interaction.* 
@@ -820,8 +830,9 @@ The username input field is displayed with a red border immediately upon loading
 ### **Severity:** Medium  
 ### **Priority:** Medium  
 
---
---
+---
+---
+
 ### **Bug Title:** 
 *22. Incorrect cursor type when hovering over input fields on the Login page.*
 
@@ -857,4 +868,5 @@ When hovering over an input field, the mouse cursor is a pointer (hand icon) ins
 ### **Severity:** Medium  
 ### **Priority:** Medium  
 
---
+---
+---
