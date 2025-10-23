@@ -477,8 +477,8 @@ When clicking X, the user is redirected to the main home page, instead of return
 
 
 ### **Screenshot/Video:**  
-<img src="./images/closing-x-bug.PNG" alt="Closing a photo preview" width="800">
-<img src="./images/closing-x-bug1.PNG" alt="Closing a photo preview (X button)" width="800">
+<img src="./images/closing-x-bug.png" alt="Closing a photo preview" width="800">
+<img src="./images/closing-x-bug1.png" alt="Closing a photo preview (X button)" width="800">
 
 
 
@@ -514,7 +514,7 @@ The system should register the user successfully once all fields are correctly f
 After filling in all valid data and clicking Register, the registration fails, even though all required fields are valid.
 
 ### **Screenshot/Video:**  
-<img src="./images/registration-error.PNG" alt="Registration error" width="800">
+<img src="./images/registration-error.png" alt="Registration error" width="800">
 
 
 
